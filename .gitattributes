@@ -1,0 +1,8 @@
+Du's[[:space:]]Treasure/Library/PackageCache/com.unity.burst@1.8.9/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
+Du's[[:space:]]Treasure/Library/PackageCache/com.unity.burst@1.8.9/.Runtime/libburst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
+Du's[[:space:]]Treasure/Library/PackageCache/com.unity.burst@1.8.9/.Runtime/libburst-llvm-15.so filter=lfs diff=lfs merge=lfs -text
+Du's[[:space:]]Treasure/Library/PackageCache/com.unity.burst@1.8.9/.Runtime/burst-llvm-15.dll filter=lfs diff=lfs merge=lfs -text
+Du's[[:space:]]Treasure/Library/PackageCache/com.unity.burst@1.8.9/.Runtime/libburst-llvm-15.dylib filter=lfs diff=lfs merge=lfs -text
+*.ext filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text

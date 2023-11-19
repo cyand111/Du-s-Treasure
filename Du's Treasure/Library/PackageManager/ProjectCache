@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638357377437360917
-    m_Hash: 82642346
+      ticks: 638358687701861210
+    m_Hash: 2281661892
   m_LockFileStatus:
     m_FilePath: C:/Users/10497/Desktop/board games project/Du-s-Treasure/Du's Treasure/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638357378143075935
-    m_Hash: 3843485508
+      ticks: 638358687701861210
+    m_Hash: 3135409284
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
